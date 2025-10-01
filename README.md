@@ -1,4 +1,4 @@
-# Creative Media Center New Website
+# Creative Media Center New Website - Visit here: https://bookit.cmc.jhu.edu/
 
 ### Contents of each folder:
 
